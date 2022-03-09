@@ -776,10 +776,6 @@ body {
         gap: 21px;
     }
 
-    .menu-other .container {
-        padding-right: 0;
-    }
-
     .button-up.visible {
         display: none;
     }
@@ -955,7 +951,6 @@ body {
 
     .footer-list-tel {
         margin-top: 16px;
-        text-align: center;
         margin-right: 8px;
         letter-spacing: .2px;
     }
